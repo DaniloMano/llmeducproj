@@ -171,7 +171,7 @@ graph TD
 
 🔄 Escalabilidade: ótimo para sistemas de atendimento com alto volume de uso
 
-💡 Exemplo de Aplicação
+# 💡 Exemplo de Aplicação
 Imagine um chatbot empresarial que responde frequentemente:
 
 "Qual o horário de atendimento?"
